@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MineCoin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#suplay">Suplay</a></li>
+                <li><a href="#tokenomics">Tokenomics</a></li>
+                <li><a href="#roadmap">Roadmap</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="suplay">
+        <h2>Suplay</h2>
+        <!-- Conteúdo sobre Suplay -->
+    </section>
+
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <!-- Conteúdo sobre Tokenomics -->
+    </section>
+
+    <section id="roadmap">
+        <h2>Roadmap</h2>
+        <!-- Conteúdo sobre Roadmap -->
+    </section>
+
+    <section id="contact">
+        <h2>Contato</h2>
+        <!-- Formulário de contato ou informações de contato -->
+    </section>
+</body>
+</html>
